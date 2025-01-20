@@ -4,12 +4,21 @@ Ce cours fait partie du [*séminaire d'introduction aux humanités numériques*]
 
 ---
 
+## Les notebooks
+
+- `0_lexique_python`: une cheatsheet/un lexique de tout ce qui est vu dans le cours
+- `1_python_basique`: une première introduction à python, avec des manipulations très simples et une présentation de quelques types de données (`int`, `float`, `str`, `bool`) et des fonctions
+- `2_manipuler_du_texte_simple`: présentation plus avancée, avec une chaîne de traitement qui vise à écrire une fonction comptant les différentes occurences de chaque mot dans un texte. On y voit les types `list` et `dict`, ainsi que les `if`, `for` et l'écriture de fonctions.
+
+---
+
 ## Utilisation
 
 ### Google Colab
 
 - 1er notebook: [1_python_basique](https://colab.research.google.com/drive/1v5KxcpGpO9SIPQZ3UmVSwozzPzr5YYAm?usp=sharing)
 - 2e notebook: [2_manipyler_du_texte_simple](https://colab.research.google.com/drive/1muK2q0T_X0AKXwsZe9TlH0CIopI501_E?usp=sharing)
+- lexique / cheatsheet: [0_lexique_python](https://colab.research.google.com/drive/1pjREvSv9wG2aEpAdyy6zmryfhYi4WB5m?usp=sharing)
 
 Il faudra charger tous les textes dans la partie "fichiers" de votre Google Colab (onglet en forme de dossier à gauche de l'écran).
 
