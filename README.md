@@ -18,7 +18,7 @@ Ce cours fait partie du [*séminaire d'introduction aux humanités numériques*]
 
 - 1er notebook: [1_python_basique](https://colab.research.google.com/drive/1v5KxcpGpO9SIPQZ3UmVSwozzPzr5YYAm?usp=sharing)
 - 2e notebook: [2_manipyler_du_texte_simple](https://colab.research.google.com/drive/1lZKOKOe00QPbc9bbRGIjD5N5sK9b4P4Z?usp=sharing)
-- 3e notebook: [3_densite_lexicale](https://colab.research.google.com/drive/1QjEAdPNLZtPnBoMJHNMAkxgNUIvsWsOV?usp=sharing)
+- 3e notebook: [3_densite_lexicale](https://colab.research.google.com/drive/1oZOuAf_etr9MTvf_2c0hIn-1rZVoPwCT?usp=sharing)
 - lexique / cheatsheet: [0_lexique_python](https://colab.research.google.com/drive/1pjREvSv9wG2aEpAdyy6zmryfhYi4WB5m?usp=sharing)
 
 Il faudra charger tous les textes dans la partie "fichiers" de votre Google Colab (onglet en forme de dossier à gauche de l'écran).
