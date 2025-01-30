@@ -56,8 +56,16 @@ Les trois romans de Woolf utilisés dans ce notebook ont été légèrement modi
 
 ## Pour aller plus loin
 
+J'ai quelques autres notebooks qui peuvent être utiles:
+
+- [Cours donné en 2024 à l'ENS](https://github.com/paulhectork/cours_ens2024_fouille_de_texte) (2h). C'est le même corpus de trois romans de Virginia Woolf, mais en plus de la densité lexicale, on voit l'analyse de la structure des phrases et paragraphes, ainsi que la distribution du vocabulaire dans les trois romans pour chercher à mener une analyse statistique un peu plus poussée.
+- [Atelier donné en 2023 à l'ENS](https://github.com/paulhectork/cours_ens2023_xmltei) (1 journée) sur l'analyse de texte en XML. On y voit le XML-TEI, un standard de description de documents, et on y fait du TAL beaucoup plus avancé: géocodage, résolutions d'entités nommées... Bon ce cours est peut-être un peu compliqué mais je le mets quand même:) 
+
+Ces ressources pédagogiques sont aussi très utiles et m'ont servi à préparer ces cours:
 - Laramée, F. D. (2018). Introduction à la stylométrie en Python. *Programming historian*. [En ligne](https://programminghistorian.org/fr/lecons/introduction-a-la-stylometrie-avec-python)
 - Lavin, Matthew J. (2019). Analyse de documents avec TF-IDF. *Programming historian*. [En ligne](https://programminghistorian.org/fr/lecons/analyse-de-documents-avec-tfidf)
+- Bird, S. & Klein E. & Loper E. (1e édition 2009). *Natural language processing with pyton. Analyzing text with the natural language toolkit*. [En ligne](https://www.nltk.org/book/) (pour aller beaucoup plus loin) 
+- [Cours de Python](https://github.com/PonteIneptique/cours-python) donné par Thibault Clérice à l'École des Chartes jusqu'en 2021-2022. Un cours trèèèèès complet qui va jusqu'au développement d'une appli Web.
 - Bird, S. & Klein E. & Loper E. (1e édition 2009). *Natural language processing with pyton. Analyzing text with the natural language toolkit*. [En ligne](https://www.nltk.org/book/) (pour aller beaucoup plus loin) 
 
 ---
