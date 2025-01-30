@@ -9,6 +9,7 @@ Ce cours fait partie du [*séminaire d'introduction aux humanités numériques*]
 - `0_lexique_python`: une cheatsheet/un lexique de tout ce qui est vu dans le cours
 - `1_python_basique`: une première introduction à python, avec des manipulations très simples et une présentation de quelques types de données (`int`, `float`, `str`, `bool`) et des fonctions
 - `2_manipuler_du_texte_simple`: présentation plus avancée, avec une chaîne de traitement qui vise à écrire une fonction comptant les différentes occurences de chaque mot dans un texte. On y voit les types `list` et `dict`, ainsi que les `if`, `for` et l'écriture de fonctions.
+- `3_densite_lexicale`: utilisation de librairies de TAL (traitement automatisé du langage) et calcul de densité lexicale
 
 ---
 
